@@ -183,7 +183,7 @@
 ##    c.update({b:a})
 ##print(c)
 
-15.Custom application:
+#15.Custom application:
 ##a={'red':2,'yellow':4,'orange':5,'pink':9}
 ##print("1. Add")
 ##print("2. Remove")
